@@ -1,0 +1,25 @@
+{
+  "name": "ecommercenode",
+  "version": "1.0.0",
+  "description": "NodeJs implementation of the server with MongoDB database to the eCommerce client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://Mkarakaya6675@dev.azure.com/Mkarakaya6675/eCommerceNode/_git/eCommerceNode"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "postman"
+  ],
+  "author": "Melih Karakaya",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.0"
+  }
+}
